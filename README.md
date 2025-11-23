@@ -60,3 +60,6 @@ You can also check out our grants cycle at [grants.taiko.xyz](https://grants.tai
 ## Getting support
 
 Reach out to the community on [Discord](https://discord.gg/taikoxyz) if you need any help!
+
+
+## Well supported in Singore
